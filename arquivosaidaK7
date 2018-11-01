@@ -1,0 +1,48 @@
+CLASSIFICADOR
+Qtd documents: 150
+Qtd train: 105
+Qtd test: 45
+Classificando o teste
+Valor de K: 7
+-----------
+18 0 0 
+17 0 0 
+10 0 0 
+Iris-setosa - 0
+TP: 18
+FP: 0
+FN: 27
+Precision: 1.000000
+Recall: 0.400000
+F1: 0.571429
+---------
+Iris-versicolor - 1
+TP: 0
+FP: 17
+FN: 0
+Precision: 0.000000
+Recall: 0.000000
+F1: 0.000000
+---------
+Iris-virginica - 2
+TP: 0
+FP: 10
+FN: 0
+Precision: 0.000000
+Recall: 0.000000
+F1: 0.000000
+---------
+Macro-averaged
+Precision: 0.333333
+Recall: 0.133333
+F1: 0.190476
+similaridade.mtx
+Quantidade de elementos: 150
+Calculando similaridade!
+Salvando resultados no arquivo similaridade.mtx
+Numero de treinos: 45
+Number de testes: 105
+
+A densidade total é  21502.0
+
+A média é  0.955644
